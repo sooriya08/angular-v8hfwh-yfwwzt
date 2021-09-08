@@ -1,0 +1,22 @@
+{
+"products": {
+
+    "items":[
+      {
+        "productId": "1",
+        "dept": "home",
+        "itemtype": "small"
+      },
+      {
+       "productId": "2",
+        "dept": "kitchen",
+        "itemtype": "medium"
+      },
+      {
+        "productId": "3",
+        "dept": "sooeiya",
+        "itemtype": "small"
+      }
+] }
+
+}
